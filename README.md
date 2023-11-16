@@ -1,6 +1,6 @@
 # GitHub Flavour Flave
 
-- [ ] External Link
+- [x] External Link
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
@@ -9,7 +9,7 @@
 
 ## External Link
 [Link zu Google](https://www.google.com)
-
+[One-Piece Tube](https://onepiece-tube.com/anime/episoden-streams)
 ## Internal Link
 ## Images
 ## Emojis
