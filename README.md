@@ -3,8 +3,8 @@
 - [x] External Link
 - [x] Internal Link
 - [x] Images
-- [ ] Emojis
-- [ ] Tables
+- [x] Emojis
+- [x] Tables
 
 
 ## External Link
@@ -22,3 +22,8 @@
 :sunglasses: :fire::blue_heart::fire:
 
 ## Tables
+
+| Names | Score |
+|-------|-------|
+| Anna  | 4001  |
+| Otto  | 7567  |
