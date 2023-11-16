@@ -1,7 +1,7 @@
 # GitHub Flavour Flave
 
 - [x] External Link
-- [ ] Internal Link
+- [x] Internal Link
 - [ ] Images
 - [ ] Emojis
 - [ ] Tables
