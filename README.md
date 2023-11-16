@@ -19,6 +19,6 @@
 ![Image von Pics Ordner](https://github.com/BenniDci/authoring/blob/main/Pictures/Screenshots/Screenshot%20from%202023-09-29%2015-27-22.png?raw=true)
 
 ## Emojis
-:sunglasses: :blue_heart:
+:sunglasses: :fire::blue_heart::fire:
 
 ## Tables
