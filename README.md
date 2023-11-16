@@ -1,13 +1,13 @@
 # GitHub Flavour Flave
 
-- [x] External Link
+- [x] External Link[External Link](#external-link)
 - [x] Internal Link
 - [x] Images
 - [x] Emojis
 - [x] Tables
 
 
-## External Link
+## External Link <a name="external-link"></a>
 [Link zu Google](https://www.google.com) 
 
 [One-Piece Tube](https://onepiece-tube.com/anime/episoden-streams)
